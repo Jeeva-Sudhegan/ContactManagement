@@ -1,0 +1,5 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\google_appengine\google\appengine\tools\java\lib\impl\appengine-api.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="C:\Users\User.FULL276-WIN.006\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\NameManagement\WEB-INF\lib\appengine-api-1.0-sdk-1.9.74.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
